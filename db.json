@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "8ddb",
+      "title": "test",
+      "author": "kathryn"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some content",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
